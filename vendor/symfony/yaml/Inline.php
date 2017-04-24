@@ -30,6 +30,8 @@ class Inline
     private static $objectForMap = false;
     private static $constantSupport = false;
 
+    this is a new commit
+
     /**
      * Converts a YAML string to a PHP value.
      *
